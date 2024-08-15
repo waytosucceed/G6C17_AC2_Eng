@@ -1,0 +1,259 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "What does the prefix \"pre-\" mean?",
+        "options": [
+            "After",
+            "Before",
+            "Again",
+            "Under"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Which prefix means \"former\" or \"previously\"?",
+        "options": [
+            "mis-",
+            "un-",
+            "non-",
+            "ex-"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which word means to \"write again\"?",
+        "options": [
+            "Prewrite",
+            "Rewrite",
+            "Subwrite",
+            "Writeful"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which word means \"to spell incorrectly\"?",
+        "options": [
+            "unspell",
+            "nonspell",
+            "misspell",
+            "exspell"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Fill in the blank: The ______-profit organisation relies on donations to operate. (non / un)",
+        "options": [
+            "non",
+            "un"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "What is the correct prefix to use with \"view\" to mean \"view beforehand\"?",
+        "options": [
+            "re-",
+            "mis-",
+            "pre-",
+            "none of the above"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Which word means \"to think again\"?",
+        "options": [
+            "Prethink",
+            "Rethink",
+            "Subthink",
+            "Thinkful"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Which word describes something that was not expected?",
+        "options": [
+            "misexpected",
+            "nonexpected",
+            "unexpected",
+            "exexpected"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Fill in the blank: After the fight, the ______-manager decided to start his own business. (mis / ex)",
+        "options": [
+            "mis",
+            "ex"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Which word means \"to hear incorrectly\"?",
+        "options": [
+            "unhear",
+            "nonhear",
+            "mishear",
+            "exhear"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "The prefix \"pre-\" means \"after.\"",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Which word means \"to heat before\"?",
+        "options": [
+            "Reheat",
+            "Preheat",
+            "Ex-heat",
+            "Misheat"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Which prefix would you use to describe a person who no longer works as a teacher?",
+        "options": [
+            "mis-",
+            "un-",
+            "non-",
+            "ex-"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "\"Reuse\" means to use again.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which prefix would you use to mean \"to do again\"?",
+        "options": [
+            "pre-",
+            "re-",
+            "sub-",
+            "-ful"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Which word describes an action that is against the law?",
+        "options": [
+            "mislawful",
+            "unlawful"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Fill in the blank: The ______-champion was invited to give a motivational speech. (mis / ex)",
+        "options": [
+            "mis",
+            "ex"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which word means \"to use something incorrectly\"?",
+        "options": [
+            "unuse",
+            "nonuse",
+            "misuse",
+            "exuse"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Fill in the blank: The detective found several ______matched pairs of footprints. (un / mis)",
+        "options": [
+            "un",
+            "mis"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Fill in the blank: He is a ______- English speaker. (mis / non)",
+        "options": [
+            "mis",
+            "non"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "The politician's ______ethical behaviour led to his resignation. (un / non)",
+        "options": [
+            "un",
+            "non"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Which word means \"to plan before\"?",
+        "options": [
+            "Replan",
+            "Misplan",
+            "Preplan",
+            "Pireplan"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Which word describes the act of stating something incorrectly?",
+        "options": [
+            "restate",
+            "nonstate",
+            "misstate",
+            "ex-state"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Which prefix in \"play\" means to play again?",
+        "options": [
+            "re-",
+            "pre-",
+            "sub-",
+            "-ful"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Which word means \"to surface again\"?",
+        "options": [
+            "Presurface",
+            "Ex-surface",
+            "Unsurface",
+            "None of the above"
+        ],
+        "correct": 3
+    }
+]
